@@ -2,7 +2,7 @@ window.CHAPTERS = window.CHAPTERS || [];
 
 window.CHAPTERS.push({
   "id": "numpy",
-  "number": "06",
+  "number": "05",
   "sectionLabel": "Módulo",
   "title": "NumPy",
   "description": "30 questões práticas sobre arrays, dimensões, shape, dtype, indexing, slicing, boolean indexing, broadcasting, operações vetorizadas, agregações, máscaras, matrizes, random e álgebra linear.",

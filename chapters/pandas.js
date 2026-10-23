@@ -2,7 +2,7 @@ window.CHAPTERS = window.CHAPTERS || [];
 
 window.CHAPTERS.push({
   "id": "pandas",
-  "number": "07",
+  "number": "06",
   "sectionLabel": "Módulo",
   "title": "Pandas",
   "description": "30 questões práticas sobre Series, DataFrame, Index, seleção, filtros, agregações, combinação, limpeza, transformações e séries temporais com Pandas.",
